@@ -24,6 +24,6 @@ Using K means clustering and sci learn kit the visulaisation is observed :comput
 _**Tool(s) Used - Python (Google Colab)**                                                                                                                                                                                                                                          
 The problem statement and the predictions that are to be made:
 
-From the Iris dataset, predcit the optimum number of clusters and visually represent it :bookmark:
+1. From the Iris dataset, predcit the optimum number of clusters and visually represent it :bookmark:
 
-
+2. Data can be found at :point_right: https://bit.ly/3kXTdox
