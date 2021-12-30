@@ -16,3 +16,14 @@ The problem statement and the predictions that are to be made:
 4. You can use :writing_hand: R, Python, SAS Enterprise Miner or any other tool.
 
 5. What will be predicted score if a student studies for 9.25 hrs/ day?
+
+## Task-2 Predict the optimum number of clusters and represent it visually from the given ‘Iris’ dataset using K-means clustering.
+
+Using K means clustering and sci learn kit the visulaisation is observed :computer:
+
+_**Tool(s) Used - Python (Google Colab)**                                                                                                                                                                                                                                          
+The problem statement and the predictions that are to be made:
+
+From the Iris dataset, predcit the optimum number of clusters and visually represent it :bookmark:
+
+
