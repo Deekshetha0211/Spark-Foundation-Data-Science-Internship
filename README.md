@@ -1,11 +1,10 @@
-# Spark-Foundation-Data-Science-Internship Data Science and Business Analytics 
+# Spark-Foundation-Data-Science-Internship Data Science and Business Analytics                                                                                                     
 
 ## Task-1 Predict the percentage of an student based on the no. of study hours 
 
 Using simple linear regression model, forecasting the marks of a student based on the numbers of hours studied per day :computer:
 
-_**Tool(s) Used - Python (Google Colab)**_
-
+_**Tool(s) Used - Python (Google Colab)**                                                                                                                                                                                                                                          
 The problem statement and the predictions that are to be made:
 
 1. Predict the percentage of marks of an student based on the number of study hours.
